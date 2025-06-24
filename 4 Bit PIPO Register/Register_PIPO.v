@@ -23,7 +23,7 @@ module Mux2x1(
     
 endmodule
 
-// Parallel Input Parallel Output Shift Register                
+// Parallel Input Parallel Output Register                
 module Register_PIPO(
     input [3:0] IN, // 4 bit Input
     input CLK,
