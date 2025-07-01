@@ -1,1 +1,1 @@
-# Verilog-Projects-Level-2
+# Registers and Counters Based Verilog Projects
